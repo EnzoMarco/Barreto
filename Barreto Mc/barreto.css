@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    background-image:url("Barreto.jpg")
+}
+.girassol{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+a{
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    padding: 7px;
+    margin-top: 10px;
+    color: yellow;
+}
+a:hover{
+    color: orange;
+}

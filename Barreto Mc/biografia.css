@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Permanent+Marker&display=swap');
+body{
+    background-color: rgba(255, 255, 0, 0.322);
+    color: rgb(128, 0, 128);
+    font-family: 'Permanent Marker';
+    font-size: 14px;
+}
+a{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    width: 200px;
+    border: double purple;
+    border-radius: 10px;
+    text-align: center;
+    height: 480px;
+}
+.pcard{
+    margin-top: 0px;
+}
+.girassolcard{
+    position: absolute;
+    top: 241px;
+    left: 91px;
+}
+#biografia{
+    display: flex;
+    justify-content: center;
+}
+#nome{
+    opacity: 0.5;
+}
+#data{
+    opacity: 0.5;
+}
+#local{
+    opacity: 0.5;
+}
+#hdois{
+    background-color: purple;
+    color: yellow
+}
+#artista{
+    position: absolute;
+    left: 47px;
+    top: 35px;
+
+}
+.content{
+    position: absolute;
+    left: 300px;
+    top: 100px;
+}
+.texto{
+   display: inline-block;
+   margin-right: 50px;
+}

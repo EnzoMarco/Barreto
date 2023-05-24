@@ -1,0 +1,21 @@
+body{
+    background-color: #df7b0a;
+    color: black;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    color: black;
+    margin-top: 15px;
+}
+.barra{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border: 1px solid black;
+}
