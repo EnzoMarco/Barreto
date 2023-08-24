@@ -1,2 +1,3 @@
 # Barreto
+Criação de um site dedicado à um artista.
 Site em desenvolvimento...
